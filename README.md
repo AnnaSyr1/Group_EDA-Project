@@ -1,1 +1,22 @@
 # EDA - Project
+This project was requested from the Bootcamp of Data Analytics. Me and my colleagues had the chance to select any database and analyze in Python and prepare a Presentation.
+
+Our team was composed of Andreas Dellamanis, Anna Syrigonaki, George Dimou and Panagiotis Defto that were following the Bootcamp course of Big Blue Data Analytics. We found the dataset of of Data Bank Customer Churn. This dataset was found in Kaggle. 
+
+On this dataset we decided to analyze the tenure of the customers and combine it with the products of the bank that they are using already. Based on that we recommended a few strategies to be followed per country in order to increase customer retention throught the promotion of banks’ products. 
+
+For this project we had 4 hours and we had to analyze the dataset and create the presentation. 
+
+For the analysis: 
+
+We used Python to do a data cleaning and a preparation on the dataset:
+1) Dropped NAs
+2) Customer Distribution per country 
+3) Customer Segmentation ased on account balance)
+4) Customers’ loyalty per Country
+
+Visuals depict the following:
+- Customer Distribution per country 
+- Customer Segmentation into platinum, gold, silver, zero categories (based on account balance)
+- Customers’ loyalty per Country
+- Recommendations in order to increase Customer Retension per Country
